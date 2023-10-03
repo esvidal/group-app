@@ -1,0 +1,12 @@
+{
+  "name": "group-app",
+  "version": "1.0.0",
+  "description": "A Progressive Web Application built entirely in JavaScript for real-time group and thread management. Utilizes AWS services for scalability and follows a functional programming paradigm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
